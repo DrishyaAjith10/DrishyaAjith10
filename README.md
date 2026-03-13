@@ -26,9 +26,9 @@ I enjoy working on **collaborative developer tools, web applications, and machin
 
 ## 📫 How to Reach Me
 
-- Email: drishyaajith.mec@gmail.com  
-- LinkedIn: *(add your LinkedIn profile link here)*  
-- Portfolio: *(add your portfolio link here)*  
+- Email: drishyaajith10@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/drishyaajith/
+
 
 
 
