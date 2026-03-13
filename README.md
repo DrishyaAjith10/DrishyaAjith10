@@ -1,3 +1,12 @@
+# Hi there, I'm Drishya Ajith! 👋
+
+Welcome to my GitHub profile.
+
+I'm a Computer Science Engineering student at **Government Model Engineering College, Kochi**, passionate about building impactful technology and nurturing developer communities.
+
+I enjoy working on **collaborative developer tools, web applications, and machine learning projects**, while also actively contributing to tech communities like **IEEE and TinkerHub**.
+
+---
 ## 🌱 Currently Learning
 
 - **Machine Learning Fundamentals** 
@@ -23,13 +32,12 @@
 
 
 
----
-
+--
 ## 📊 GitHub Stats
 
-![Drishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+![Drishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrishyaAjith10&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrishyaAjith10&layout=compact)
 
 ## ⚡ Fun Fact
 
