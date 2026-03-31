@@ -35,9 +35,13 @@ I enjoy working on **collaborative developer tools, web applications, and machin
 --
 ## 📊 GitHub Stats
 
-![Drishya's GitHub stats](https://github-readme-stats.vercel.app/api?username=DrishyaAjith10&show_icons=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrishyaAjith10&" alt="drishya" /></p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DrishyaAjith10&layout=compact)
+<br>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Nirus2005/Nirus2005/output/github-snake-dark.svg" alt="Snake animation" />
+</p>
+
 
 ## ⚡ Fun Fact
 
