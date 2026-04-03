@@ -39,12 +39,12 @@ I enjoy working on **collaborative developer tools, web applications, and machin
 
 <br>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Nirus2005/Nirus2005/output/github-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/DrishyaAjith10/DrishyaAjith10/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 
 ## ⚡ Fun Fact
 
-When I'm not coding, you'll probably find me **dancing, crocheting, or singing.**## Hi there 👋
+When I'm not coding, you'll probably find me **dancing, crocheting, or singing.**
 
 
