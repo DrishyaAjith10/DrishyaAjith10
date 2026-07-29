@@ -1,50 +1,75 @@
-# Hi there, I'm Drishya Ajith! 👋
+# Hi, I'm Drishya Ajith 👋
 
-Welcome to my GitHub profile.
+I'm a **Computer Science Engineering student at Government Model Engineering College, Kochi**, interested in building impactful technology and growing developer communities.
 
-I'm a Computer Science Engineering student at **Government Model Engineering College, Kochi**, passionate about building impactful technology and nurturing developer communities.
+My interests span **backend development, cloud computing, DevOps, and machine learning**. I enjoy building practical applications, exploring ML through research and experimentation, and learning how modern applications are built, deployed, and scaled.
 
-I enjoy working on **collaborative developer tools, web applications, and machine learning projects**, while also actively contributing to tech communities like **IEEE and TinkerHub**.
+Beyond code, I'm actively involved in developer and engineering communities through **IEEE Kerala Section, IEEE Women in Engineering, TinkerHub, and Global Shapers**.
 
 ---
-## 🌱 Currently Learning
 
-- **Machine Learning Fundamentals** 
-- **Full Stack Development** – building modern web applications using React, Node.js, and Supabase.
-- **Open Source Contribution** – improving Git workflows and contributing to developer communities.
+## 🚀 What I'm Exploring
+
+* ☁️ **Cloud Computing** – exploring cloud infrastructure, services, and application deployment
+* ⚙️ **DevOps** – learning Docker, CI/CD, containerisation, and modern deployment workflows
+* 🧠 **Machine Learning** – working with deep learning, computer vision, and research-oriented ML projects
+* 💻 **Backend & Full Stack Development** – building applications using Python, FastAPI, React, Node.js, and Supabase
+
+---
+
+## 🌱 Community & Leadership
+
+I enjoy building communities just as much as building software.
+
+* **Hub Student Representative** – IEEE Kerala Section
+* **Former Women in Engineering Student Representative** – IEEE Kerala Section
+* **Global Shaper** – Global Shapers Community
+* Active contributor to developer communities including **IEEE and TinkerHub**
+
+Through these communities, I've worked on organising technical initiatives, connecting students with opportunities, and creating spaces where people can learn and build together.
 
 ---
 
 ## 👯 Looking to Collaborate On
 
-- Open-source developer tools  
-- Real-time collaborative applications  
-- Web development projects using React or Node.js  
-- Beginner-friendly machine learning research projects
+* Backend and cloud-native applications
+* Developer tools and collaborative platforms
+* Machine learning and research projects
+* DevOps and infrastructure projects
+* Technology and developer community initiatives
 
 ---
 
-## 📫 How to Reach Me
+## 🛠️ Tech Stack
 
-- Email: drishyaajith10@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/drishyaajith/
+**Languages**
 
+`Python` `JavaScript` `C` `SQL`
 
+**Development**
 
+`FastAPI` `React` `Node.js` `Supabase` `REST APIs`
 
---
-## 📊 GitHub Stats
+**Machine Learning**
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DrishyaAjith10&" alt="drishya" /></p>
+`PyTorch` `Scikit-learn` `Pandas` `NumPy`
 
-<br>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DrishyaAjith10/DrishyaAjith10/output/github-snake-dark.svg" alt="Snake animation" />
-</p>
+**Cloud & DevOps**
 
+`AWS` `Docker` `Git` `GitHub` `Linux`
 
-## ⚡ Fun Fact
+---
 
-When I'm not coding, you'll probably find me **dancing, crocheting, or singing.**
+## 📊 GitHub
 
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DrishyaAjith10&theme=github_dark" alt="Drishya's GitHub contribution activity" /> </p>
+## 📫 Let's Connect
 
+* **Email:** [drishyaajith10@gmail.com](mailto:drishyaajith10@gmail.com)
+* **LinkedIn:** https://www.linkedin.com/in/drishyaajith/
+
+---
+
+## ⚡ Beyond Tech
+
+When I'm not coding, you'll probably find me **dancing, crocheting, singing, or trying to learn something new.**
